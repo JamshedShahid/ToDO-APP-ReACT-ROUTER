@@ -1,0 +1,21 @@
+.gamse{
+    background-image: url("../Images/imgs.avif");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* width: 800px; */
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center center;
+    
+}
+.singupdi{
+     
+    
+   backdrop-filter: blur(20px);
+
+    
+    
+   
+}
